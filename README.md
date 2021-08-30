@@ -14,17 +14,10 @@ LSTM is used as model because of sequential nature of data and data being textua
 Conclusion:
 <table>
 
-<tr>    Features </tr>  | Model Name |              Model Specifications              | Custom AUC |
-+---------------+------------+------------------------------------------------+------------+
-| Assignment 1  |  Model 1   |      3 dense layers with ReLU activation       | 0.75184745 |
-|               |            |      Adam Optimizer default learning rate      |            |
-|               |            |                 Text from Glove                |            |
-| Assignment 2  |  Model 2   |      3 dense layers with ReLU activation       | 0.7592025  |
-|               |            |      Adam Optimizer default learning rate      |            |
-|               |            |                  Text with IDF                 |            |
-| Assignment 3  |  Model 3   |      3 dense layers with ReLU activation       | 0.75321674 |
-|               |            |      Adam Optimizer default learning rate      |            |
-|               |            |  Text from Glove and Conv1D for other features |            |
-+---------------+------------+------------------------------------------------+------------+
+<tr>    <th>Features</th></th> <th> Model Name </th>            <th> Model Specifications  </th>            <th>Custom AUC</th>  </tr> 
+<tr> <td>Assignment 1 </td><td>Model 1</td><td>3 dense layers with ReLU activation.Adam Optimizer default learning rate. Text from Glove</td><td>0.75184745</td></tr>
+<tr><td>Assignment 2</td><td>Model 2</td><td>3 dense layers with ReLU activation .Adam Optimizer default learning rate.Text with IDF</td><td>0.7592025</td></tr>
+<tr><td>Assignment 3</td><td>Model 3</td><td>3 dense layers with ReLU activation .Adam Optimizer default learning rate.Text from Glove and Conv1D for other features</td><td>0.75321674</td></tr>
 </table>
-Link to see video demo of project. <a>https://youtu.be/JTJNi5DkA7E </a>
+
+<div>Link to see video demo of project. <a>https://youtu.be/JTJNi5DkA7E </a></div>
