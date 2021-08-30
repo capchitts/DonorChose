@@ -20,4 +20,3 @@ Conclusion:
 <tr><td>Assignment 3</td><td>Model 3</td><td>3 dense layers with ReLU activation .Adam Optimizer default learning rate.Text from Glove and Conv1D for other features</td><td>0.75321674</td></tr>
 </table>
 
-<div>Link to see video demo of project. <a>https://youtu.be/JTJNi5DkA7E </a></div>
