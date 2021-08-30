@@ -12,8 +12,9 @@ It is a binary classification problem with textual data.
 LSTM is used as model because of sequential nature of data and data being textual there are long dependency on words.
 
 Conclusion:
-+---------------+------------+------------------------------------------------+------------+
-|    Features   | Model Name |              Model Specifications              | Custom AUC |
+<table>
+
+<tr>    Features </tr>  | Model Name |              Model Specifications              | Custom AUC |
 +---------------+------------+------------------------------------------------+------------+
 | Assignment 1  |  Model 1   |      3 dense layers with ReLU activation       | 0.75184745 |
 |               |            |      Adam Optimizer default learning rate      |            |
@@ -25,5 +26,5 @@ Conclusion:
 |               |            |      Adam Optimizer default learning rate      |            |
 |               |            |  Text from Glove and Conv1D for other features |            |
 +---------------+------------+------------------------------------------------+------------+
-
-Link to see video demo of project<a>https://youtu.be/JTJNi5DkA7E </a>
+</table>
+Link to see video demo of project. <a>https://youtu.be/JTJNi5DkA7E </a>
