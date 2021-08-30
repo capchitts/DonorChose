@@ -1,4 +1,4 @@
-# DonorChose
+# DonorChose 
 DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it's approved to be posted on the DonorsChoose.org website.
 
 How to scale current manual processes and resources to screen 500,000 projects so that they can be posted as quickly and as efficiently as possible?
@@ -25,3 +25,5 @@ Conclusion:
 |               |            |      Adam Optimizer default learning rate      |            |
 |               |            |  Text from Glove and Conv1D for other features |            |
 +---------------+------------+------------------------------------------------+------------+
+
+Link to see video demo of project<a>https://youtu.be/JTJNi5DkA7E </a>
